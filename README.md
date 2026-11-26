@@ -3,6 +3,8 @@
 
 **[🇹🇷 Türkçe](#türkçe)** · **[🇬🇧 English](#english)**
 
+Github Pages : https://salihayesilyurt.github.io/internship-records-toolkit/internship_voice_entry.html
+
 ---
 
 ## Türkçe
